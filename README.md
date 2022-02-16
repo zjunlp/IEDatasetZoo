@@ -1,7 +1,16 @@
 # IE Dataset Zoo
 Information extraction dataset zoo.
 
-Contributed by **[Ningyu Zhang](https://zxlzr.github.io/)**, Shumin Deng, Haiyang Yu, Hongbin Ye.
+Contributed by **[Ningyu Zhang](https://person.zju.edu.cn/en/ningyu)**, Shumin Deng, Haiyang Yu, Hongbin Ye.
+
+
+# Named Entity Recognition
+
+| Dataset | #Type.|#Inst.|Feature|Source |Resource| Origin |  
+|---------|------:|------:|-------:|-------:|-------:|----------| 
+|    Few-    |    66   | 188,200      | Few-shot| Wikipedia+Wikidata |  [url](http://47.92.96.190/dataset/fewnerd.tar.gz)     |  [url](https://ningding97.github.io/fewnerd/)  |   
+
+
 
 
 # Relation Extraction
@@ -32,135 +41,6 @@ Other Datasets
 
 - [WikiReading](https://github.com/google-research-datasets/wiki-reading) 
 
-
-## Fewrel
-
-FewRel : A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation 
-
-Matching the Blanks : Distributional Similarity for Relation Learning ACL2019
-
-Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification ACL2019
-
-## TACRED
-
-Position-aware attention and supervised data improve slot filling.
-
-Matching the Blanks : Distributional Similarity for Relation Learning ACL2019
-
-
-## Semeval
-
-Matching the Blanks : Distributional Similarity for Relation Learning
-
-## Wikidata
-
-Context-Aware Representations for Knowledge Base Relation Extraction
-
-Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction
-
-
-
-
-## NYT10(tsinghua) 
-
-Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks
-
-Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction
-
-
-## NYT10-large (tsinghua)
-
-Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction EMNLP2018
-
-Hierarchical Relation Extraction with Coarse-to-Fine Grained Attention EMNLP2018
-
-Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks NAACL2019
-
-
-
-
-## NYT-Wikidata
-
-Incorporating Relation Paths in Neural Relation Extraction EMNLP2017
-
-   
-## NYT10-29     
-
-A Hierarchical Framework for Relation Extraction with Reinforcement Learning
-
-Joint Extraction of Entities and Relations with a Hierarchical Multi-task Tagging Model
-
-## NYT11-12    
-
-A Hierarchical Framework for Relation Extraction with Reinforcement Learning
-
-Joint Extraction of Entities and Relations with a Hierarchical Multi-task Tagging Model
-
-## NYT-manual
-
-Indirect Supervision for Relation Extraction Using Question-Answer Pairs
-
-CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases.
-
-Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy
-
-Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism
-
-Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme
-
- 
-##  NYT-Wiki(zju)    
-
-
-Relation Adversarial Network for Low Resource Knowledge Graph Completion
-
-
-
-
-
-
-
-## Wiki-KBP
-
-CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases.
-
-Indirect Supervision for Relation Extraction Using Question-Answer Pairs
-
-
- 
- 
-
-
-## PubMed-BioInfer
-
-CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases.
-
-## WebNLG
-
-Extracting relational facts by an end-to-end neural model with copy mechanism
-
-
-## SKE
-
-MrMep: joint extraction of multiple relations and multiple entity pairs based on triplet attention
-
-
-## KBP37
-
-Matching the Blanks : Distributional Similarity for Relation Learning ACL2019
-
-Relation classification via recurrent neural network
-
-
-
-## T-REx 
-
-T-Rex : A Large Scale Alignment of Natural Language with Knowledge Base Triples
-
-K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters
-
- 
-
  
 # Event Extraction
 
@@ -172,18 +52,6 @@ K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters
  |   CCKS2019_Event   |    17,815       | Supervised|  Financial Announcements  |  [url](http://47.92.96.190/dataset/ccks2019_event.tar.gz) |  [url](https://www.biendata.com/competition/ccks_2019_4/data/)        | 
  |  Doc2EDAG    |       32,040    | Supervised| Financial Announcements | [url](http://47.92.96.190/dataset/doc2edag.tar.gz) |    [url](https://github.com/dolphin-zs/Doc2EDAG)        | 
 
-## ACE05
-
-too many papers
-
-## FewEvent(zju)
-
-Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection
-
- 
-## Doc2EDAG
-
-Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction
 
 
 
