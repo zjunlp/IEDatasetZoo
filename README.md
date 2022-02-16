@@ -14,6 +14,8 @@ Contributed by **[Ningyu Zhang](https://person.zju.edu.cn/en/ningyu)**, **Shumin
 
 # Relation Extraction
 
+## Sentence-Level
+
 | Dataset | #Rel.|#Inst.|Feature|Source |Resource| Origin |  
 |---------|------:|------:|-------:|-------:|-------:|----------| 
 |    Fewrel    |    100   | 44,800      | Supervised| Wikipedia+Wikidata |  [url](http://47.92.96.190/dataset/fewrel.tar.gz)     |  [url](http://www.zhuhao.me/fewrel/)        |      
@@ -39,6 +41,8 @@ Contributed by **[Ningyu Zhang](https://person.zju.edu.cn/en/ningyu)**, **Shumin
 Other Datasets
 
 - [WikiReading](https://github.com/google-research-datasets/wiki-reading) 
+
+## Document-Level
 
  
 # Event Extraction
