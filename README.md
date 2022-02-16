@@ -1,15 +1,14 @@
 # IE Dataset Zoo
 Information extraction dataset zoo.
 
-Contributed by **[Ningyu Zhang](https://person.zju.edu.cn/en/ningyu)**, Shumin Deng, Haiyang Yu, Hongbin Ye.
+Contributed by **[Ningyu Zhang](https://person.zju.edu.cn/en/ningyu)**, **Shumin Deng**.
 
 
 # Named Entity Recognition
 
 | Dataset | #Type.|#Inst.|Feature|Source |Resource| Origin |  
 |---------|------:|------:|-------:|-------:|-------:|----------| 
-|    Few-    |    66   | 188,200      | Few-shot| Wikipedia+Wikidata |  [url](http://47.92.96.190/dataset/fewnerd.tar.gz)     |  [url](https://ningding97.github.io/fewnerd/)  |   
-
+|    Few-NERD    |    66   | 188,200      | Few-shot| Wikipedia+Wikidata |  [url](http://47.92.96.190/dataset/fewnerd.tar.gz)     |  [url](https://ningding97.github.io/fewnerd/)  |   
 
 
 
@@ -52,7 +51,6 @@ Other Datasets
  |   CCKS2019_Event   |    17,815       | Supervised|  Financial Announcements  |  [url](http://47.92.96.190/dataset/ccks2019_event.tar.gz) |  [url](https://www.biendata.com/competition/ccks_2019_4/data/)        | 
  |  Doc2EDAG    |       32,040    | Supervised| Financial Announcements | [url](http://47.92.96.190/dataset/doc2edag.tar.gz) |    [url](https://github.com/dolphin-zs/Doc2EDAG)        | 
 
-
-
+# How to Cite
 
 
