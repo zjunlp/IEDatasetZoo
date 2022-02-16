@@ -37,6 +37,7 @@ Contributed by **[Ningyu Zhang](https://person.zju.edu.cn/en/ningyu)**, **Shumin
 |    T-REx    |   642   |  6.3M  | Distent-supervision   | Wikipedia+Wikidata |  -   |  [url](https://hadyelsahar.github.io/t-rex/)        |  
 |   Google-RE    |   5   |  59,576  | Supervised | Wikipedia |  -    |  [url](https://github.com/google-research-datasets/relation-extraction-corpus)        |  
 |   ADE   |    3  | 23,516 | Supervised|  Medical Report | [url](http://47.92.96.190/dataset/ade.tar.gz)     |  [url](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)        |  
+|   WebRED   |    523  | 107,819 | Supervised|  World Wide Web| -     |  [url](https://github.com/google-research-datasets/WebRED)        |  
 
 Other Datasets
 
@@ -44,6 +45,9 @@ Other Datasets
 
 ## Document-Level
 
+|   DocRED   |    3  | 3,053 | Supervised|  Wikipedia | -   |  [url](https://github.com/thunlp/DocRED)        |  
+|   CDR   |    3  | 500 | Supervised|  Medical | -    |  [url](https://github.com/fenchri/edge-oriented-graph)        |  
+|   GDA   |    3  | 23,353 | Supervised|  Medical | -   |  [url](https://github.com/fenchri/edge-oriented-graph)        |  
  
 # Event Extraction
 
@@ -54,6 +58,7 @@ Other Datasets
  |    FewEvent(zju)  |    71,385      | Supervised| ACE05+_TAC-KBP17| [url](http://47.92.96.190/dataset/FewEvent.tar.gz)   |  [url](https://github.com/231sm/Low_Resource_KBP)        | 
  |   CCKS2019_Event   |    17,815       | Supervised|  Financial Announcements  |  [url](http://47.92.96.190/dataset/ccks2019_event.tar.gz) |  [url](https://www.biendata.com/competition/ccks_2019_4/data/)        | 
  |  Doc2EDAG    |       32,040    | Supervised| Financial Announcements | [url](http://47.92.96.190/dataset/doc2edag.tar.gz) |    [url](https://github.com/dolphin-zs/Doc2EDAG)        | 
+ |  Maven    |       1,276,000    | Supervised| Wikipedia| - |    [url](https://github.com/THU-KEG/MAVEN-dataset)        | 
 
 # How to Cite
 
