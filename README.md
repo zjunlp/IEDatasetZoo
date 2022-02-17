@@ -45,8 +45,8 @@ Other Datasets
 
 ## Document-Level
 
-| Dataset |# Inst.|Feature|Source |Resource| Origin |  
-|---------|------:|-------:|-------:|-------:|----------|
+| Dataset | #Rel.|#Inst.|Feature|Source |Resource| Origin |  
+|---------|------:|------:|-------:|-------:|-------:|----------| 
 |   DocRED   |    3  | 3,053 | Supervised|  Wikipedia | -   |  [url](https://github.com/thunlp/DocRED)        |  
 |   CDR   |    3  | 500 | Supervised|  Medical | -    |  [url](https://github.com/fenchri/edge-oriented-graph)        |  
 |   GDA   |    3  | 23,353 | Supervised|  Medical | -   |  [url](https://github.com/fenchri/edge-oriented-graph)        |  
