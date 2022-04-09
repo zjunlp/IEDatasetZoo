@@ -1,8 +1,6 @@
 # IE Dataset Zoo
 Information extraction dataset zoo.
 
-Contributed by **[Ningyu Zhang](https://person.zju.edu.cn/en/ningyu)**, **Shumin Deng**.
-
 
 # Named Entity Recognition
 
